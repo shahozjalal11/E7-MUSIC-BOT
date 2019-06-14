@@ -1,0 +1,6 @@
+owner=501860382357585931
+prefix=$
+game=BY SHAHOZ & ABDULLA
+stayinchannel=true
+songinstatus=false
+token=NTg5MjI1MTYxMDY5NDI4NzU2.XQQk1A.N1PQVcK1_XyLYjp5hjPJDzg2b7E
